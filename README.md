@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
-<p>- 🌱 I’m currently learning **JavaScript, APIs, JavaFX and Android**</p>
+<p>- 🌱 I’m currently learning <h3>JavaScript, APIs, JavaFX and Android</h3></p>
 <p>- 📖 I want to learn machine learning, clean code and keep developing my programming skills </p>
 <p>- 😄 I love to read!</p>
 <p>- 🍪 I speak English and a bit of Russian</p>
